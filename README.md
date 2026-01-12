@@ -3,7 +3,7 @@
 - toy Go library inspired by `go-cmp`
 - provide easy way to compare slices
 - uses dynamic programming to find a shortest path between two slices
-  by changine, removing, or inserting characters
+  by changing, removing, or inserting characters
 - I use it in tests to assert slices
 
 # usage
